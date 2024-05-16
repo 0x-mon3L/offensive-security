@@ -5,9 +5,9 @@
 
 ## Offensive Security
 
-* [1. Initial Access](offensive-security/1.-initial-access/README.md)
-  * [a. Password Spray](offensive-security/1.-initial-access/a.-password-spray.md)
-  * [b. Phishing with MS Office](offensive-security/1.-initial-access/b.-phishing-with-ms-office.md)
+* [1 - Initial Access](offensive-security/1-initial-access/README.md)
+  * [a - Password Spray](offensive-security/1-initial-access/a-password-spray.md)
+  * [b - Phishing with MS Office](offensive-security/1-initial-access/b-phishing-with-ms-office.md)
 * [2. Code Execution](offensive-security/2.-code-execution/README.md)
   * [a. regsvr32](offensive-security/2.-code-execution/a.-regsvr32.md)
   * [b. MSHTA](offensive-security/2.-code-execution/b.-mshta.md)
